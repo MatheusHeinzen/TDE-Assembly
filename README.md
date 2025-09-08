@@ -1,5 +1,6 @@
 # TDE Assembly
 
+<img src="Assembly Mars MIPS.png" width="650">
 TDE focado no aprendizado do uso de Assembly no manipulador Mars MIPS para entendimento da manipulação de dados em baixo nível.
 
 ## Equipe:
@@ -16,3 +17,4 @@ O segundo programa é responsável de realizar a soma do ano do nascimento dos a
 
 ## Vídeo
 A explicação detalhada dos códigos está definida no seguinte vídeo:
+https://youtu.be/xK1KLLkbN68
